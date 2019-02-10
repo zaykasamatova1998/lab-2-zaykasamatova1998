@@ -1,0 +1,56 @@
+h1 {
+	font-family:Georgia;
+	font-size: 40px;
+	color: white;
+	text-align: left;
+}
+h2 {
+	font-family:Georgia;
+	font-size: 30px;
+	color: white;
+	text-align: left;
+}
+p {
+	font-family:Georgia;
+	font-size: 18px;
+	color: white;
+	text-align: left;
+        font-weight: bold;
+}
+ul {
+        font-family:Georgia;
+	font-size: 18px;
+	color: white;
+	text-align: left;
+}
+ol {
+        font-family:Georgia;
+	font-size: 18px;
+	color: white;
+	text-align: left;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+   background-image: url("transforms.jpg");
+   background-repeat: no-repeat, repeat;
+   background-size: cover;
+}
+   A {
+    text-decoration: none;
+   } 
+   A:hover { 
+    text-decoration: underline;
+   } 
+
+.myDropcap {
+  font-size: 50px;
+  line-height: 1.4em;
+  font-weight: bold;
+  vertical-align: middle;
+  background-color: darksalmon;
+  padding: 1 8px;
+}
